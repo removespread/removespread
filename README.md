@@ -4,6 +4,7 @@ Hi there, welcome to my profile 👋 I'm Victor, 18 years and from Russia. I'm i
 ## 💬 If you want to contact me, here's how:
 - ![Discord Logo](https://i.imgur.com/002xgns.png) __Discord__ - accurated#4090
 - ![Telegram Logo](https://i.imgur.com/GvBrDW5.png) __Telegram__ - [fakelag](https://t.me/fakelag)
+- ![VK Logo](https://vk.cc/c3iFBT) __VK__ - [accurated](vk.com/accurated)
 
 ### ⚡ Languages and Tools:
 
