@@ -3,8 +3,8 @@ Hi there, welcome to my profile 👋 I'm Victor, 18 years and from Russia. I'm i
 
 ## 💬 If you want to contact me, here's how:
 - ![Discord Logo](https://i.imgur.com/002xgns.png) __Discord__ - accurated#4090
-- ![Telegram Logo](https://i.imgur.com/GvBrDW5.png) __Telegram__ - [fakelag](https://t.me/fakelag)
-- <img align="left" alt="accurated" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg"> -[accurated](vk.com/accurated)
+- ![Telegram Logo](https://i.imgur.com/GvBrDW5.png) __Telegram__ - [TG](https://t.me/fakelag)
+- <img align="left" alt="VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg"> - [VK](vk.com/accurated)
 
 ### ⚡ Languages and Tools:
 
