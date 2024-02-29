@@ -1,7 +1,20 @@
-# @removespread
-Hi there, welcome to my profile 👋 
+# About ME 💬 :
 
-## 💬 If you want to contact me, here's how:
+### - Hello! I'm 19 years old Software Engineer & Reverse Engineer Enthusiast from Russia.
 
-> - ![Discord Logo](https://i.imgur.com/002xgns.png) __Discord__ - removespread
-> - ![Telegram Logo](https://i.imgur.com/GvBrDW5.png) __Telegram__ - [TG](https://t.me/fakelag)
+### - Interests:
+
+- Software Developing (C++, C)
+- Reverse Engineering
+- Security Research
+- Game Hacking
+- Data Science
+- Financial Markets
+
+![](https://komarev.com/ghpvc/?username=removespread&label=%E2%9D%A4%EF%B8%8F&color=000000&style=flat)
+
+<p align="center">
+ <a href="https://t.me/fakelag" align="center">
+   <img align="center" alt="Telegram" width="130" hight="100" src="https://github.com/Eastonn/Eastonn/blob/master/assets/icons/telegram.png" />
+ </a>
+</p>
