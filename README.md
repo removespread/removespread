@@ -4,12 +4,9 @@
 
 ### - Interests:
 
-- Software Developing (C++, C)
-- Reverse Engineering
+- Software Developing
 - Security Research
-- Game Hacking
 - Data Science
-- Financial Markets
 
 ![](https://komarev.com/ghpvc/?username=removespread&label=%E2%9D%A4%EF%B8%8F&color=000000&style=flat)
 
