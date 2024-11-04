@@ -11,3 +11,6 @@ Golang developer @ Citydrive
 
 ## 🔮 Projects
 -- To-do
+
+## Wakatime
+[![wakatime](https://wakatime.com/badge/user/c893e3cc-7629-48b6-bccc-00ffde7fc39b.svg)](https://wakatime.com/@c893e3cc-7629-48b6-bccc-00ffde7fc39b)
