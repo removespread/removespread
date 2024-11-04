@@ -1,17 +1,13 @@
-# About ME 💬 :
+# removespread
+Welcome to my profile. I'm removespread, 20 years old  (🇷🇺). I'm insterested in website solutions and programming. I'm working with golang.
 
-### - Hello! I'm 20 years old Software Engineer from Russia.
+Golang developer @ Citydrive
 
-### - Interests:
+## 💬 Socials
+- __Steam__ - [removespread](https://steamcommunity.com/id/accuratedog/)
+- __VK__ - [removespread](https://vk.com/removespread/)
+- __Telegram__ - [removespread](https://vk.com/removespread/)
+- __Instagram__ - [removespread](https://instagram.com/removespread/)
 
-- Software Developing
-- Security Research
-- Data Science
-
-### - Contacts
-
-- t.me/removespread
-- instagram.com/removespread
-- removespread@proton.me
-
-![](https://komarev.com/ghpvc/?username=removespread&label=%E2%9D%A4%EF%B8%8F&color=000000&style=flat)
+## 🔮 Projects
+-- To-do
