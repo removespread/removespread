@@ -1,7 +1,17 @@
 # removespread
 Welcome to my profile. I'm removespread, 20 years old  (🇷🇺). I'm insterested in website solutions and programming. I'm working with golang.
 
-Golang developer @ Citydrive
+Skills:
+- Golang
+- Redis
+- Kafka
+- PostgreSQL
+- Docker / Docker-compose
+
+Conventions:
+- SOLID
+- KISS
+
 
 ## 💬 Socials
 - __Steam__ - [removespread](https://steamcommunity.com/id/accuratedog/)
