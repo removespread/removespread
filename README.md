@@ -20,7 +20,7 @@ Conventions:
 - __Instagram__ - [removespread](https://instagram.com/removespread/)
 
 ## 🔮 Projects
--- To-do
+- [CRM](https://github.com/removespread/CRMTest) - Simple CRM system with CRUD operations. Using FX, Gorm, Viper, async methods.
 
 ## Wakatime
 [![wakatime](https://wakatime.com/badge/user/c893e3cc-7629-48b6-bccc-00ffde7fc39b.svg)](https://wakatime.com/@c893e3cc-7629-48b6-bccc-00ffde7fc39b)
