@@ -1,5 +1,5 @@
 # removespread
-Welcome to my profile. I'm removespread, 20 years old  (🇷🇺). I'm insterested in website solutions and programming. I'm working with golang.
+Welcome to my profile. I'm Viktor (nickname: removespread), 20 years old  (🇷🇺). I'm insterested in website solutions and programming. I'm working with golang.
 
 Skills:
 - Golang
