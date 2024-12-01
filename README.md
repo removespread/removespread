@@ -24,4 +24,4 @@ Conventions:
 - [JWTAuthService](https://github.com/removespread/JWTAuthService) - __MVP__, Test task for being junior backend developer.
 
 ## Wakatime
-[![wakatime](https://wakatime.com/badge/user/c893e3cc-7629-48b6-bccc-00ffde7fc39b.svg)](https://wakatime.com/@c893e3cc-7629-48b6-bccc-00ffde7fc39b)
+[![wakatime]((https://wakatime.com/@c893e3cc-7629-48b6-bccc-00ffde7fc39b/projects/yhqgqczwqz?start=2024-11-25&end=2024-12-01))
