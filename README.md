@@ -16,7 +16,7 @@ Conventions:
 ## 💬 Socials
 - __Steam__ - [removespread](https://steamcommunity.com/id/accuratedog/)
 - __VK__ - [removespread](https://vk.com/removespread/)
-- __Telegram__ - [removespread](https://vk.com/removespread/)
+- __Telegram__ - [removespread](https://t.me/fakelag)
 - __Instagram__ - [removespread](https://instagram.com/removespread/)
 
 ## 🔮 Projects
