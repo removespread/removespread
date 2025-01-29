@@ -7,10 +7,12 @@ Skills:
 - Kafka
 - PostgreSQL
 - Docker / Docker-compose
+- Postman
 
 Conventions:
 - SOLID
 - KISS
+- DRY
 
 
 ## 💬 Socials
