@@ -1,5 +1,5 @@
 # 💯 NOT EVEN SPECIALIST'25
-Welcome to my profile. I'm Viktor (nickname: removespread), 20 years old  (🇷🇺). I'm interested in website solutions and programming. I'm working with golang.
+Welcome to my profile. I'm Viktor (nickname: removespread), 20 years old. I'm interested in website solutions and programming.
 
 Skills:
 - Golang
