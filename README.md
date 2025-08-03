@@ -4,7 +4,7 @@ Welcome to my profile. I'm Viktor, 21 years old. I'm interested in QA things, pr
 Aladdin Enterprise, Quality Assurance @ Open Solutions
 
 ## 🌐 Socials:
-- - ![Steam Logo](https://i.imgur.com/2XgiDt5.png) __Steam__ - [Removespread](https://steamcommunity.com/id/accuratedog/)
+- ![Steam Logo](https://i.imgur.com/2XgiDt5.png) __Steam__ - [Removespread](https://steamcommunity.com/id/accuratedog/)
 - ![Telegram Logo](hhttps://telegram.org/favicon.ico) __Telegram__ - [Removespread](https://t.me/removespread)
 - ![VK Logo](https://vk.com/favicon.ico) __VK__ - [Removespread](https://vk.com/removespread)
 - ![Instagram Logo](https://instagram.com/favicon.ico) __Instagram__ - [Removespread](https://instagram.com/removespread)
