@@ -1,7 +1,7 @@
 # Removespread
 Welcome to my profile. I'm Viktor, 21 years old. I'm interested in QA things, programming, and social-engineering.
 
-Aladdin Enterprise, Quality Assurance @ Open Solutions
+Aladdin Enterprise, Quality Assurance @ Open Solutions LLC.
 
 ## 🌐 Socials:
 - __Steam__ - [Removespread](https://steamcommunity.com/id/accuratedog/)
